@@ -3,23 +3,7 @@
  *
  * @author n1474335 [n1474335@gmail.com]
  * @copyright Crown Copyright 2016
- * @license Apache-2.0
- *
- * @namespace
- */
-var FlowControl = {
 
-    /**
-     * @constant
-     * @default
-     */
-    FORK_DELIM: "\\n",
-    /**
-     * @constant
-     * @default
-     */
-    MERGE_DELIM: "\\n",
-    
     /**
      * Fork operation.
      *
