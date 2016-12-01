@@ -6,25 +6,7 @@
  * Copyright (c) 2013-2015 Kenji Urushima (kenji.urushima@gmail.com)
  *
  * This software is licensed under the terms of the MIT License.
- * http://kjur.github.com/jsrsasign/license
- *
- * The above copyright and license notice shall be 
- * included in all copies or substantial portions of the Software.
- */
 
-/**
- * @fileOverview
- * @name asn1x509-1.0.js
- * @author Kenji Urushima kenji.urushima@gmail.com
- * @version 1.0.12 (2015-Jun-01)
- * @since jsrsasign 2.1
- * @license <a href="http://kjur.github.io/jsrsasign/license/">MIT License</a>
- */
-
-/** 
- * kjur's class library name space
- * // already documented in asn1-1.0.js
- * @name KJUR
  * @namespace kjur's class library name space
  */
 if (typeof KJUR == "undefined" || !KJUR) KJUR = {};
